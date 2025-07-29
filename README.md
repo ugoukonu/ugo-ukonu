@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/im...](https://www.freepik.com/free-ai-image/employee-working-marketing-setting_377104656.htm#fromView=search&page=1&position=2&uuid=2a61f53c-8a0d-4787-b2b3-e0eb129e27bf&query=data+analyze))]
+[![MasterHead][(https://www.freepik.com/free-ai-image/employee-working-marketing-setting_377104656.htm#fromView=search&page=1&position=2&uuid=2a61f53c-8a0d-4787-b2b3-e0eb129e27bf&query=data+analyze))]
 <h1 align="center">Hi 👋, I'm Ugo</h1>
 <h3 align="center">A Detailed-Oriented Data Analyst Specialist</h3>
 
