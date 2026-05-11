@@ -10,7 +10,7 @@ A Data Analyst Specialist with hands-on experience in transforming raw data into
 
 - 💬 Ask me about **Excel, SQL, Power Bi, Python**
 
-- 
+
 <h3 align="left">Connect with me:</h3>
 <table>
 <tr>
